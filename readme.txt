@@ -1,5 +1,5 @@
 Project
-Loans is a solution for parse Loans.csv file. It calculate loans' total amount and count group by network, product and month.
+Loans is a solution for parse Loans.csv file. It calculates loans' total amount and count group by network, product and month.
 
 Usage
 python loans.py src [, dest]
